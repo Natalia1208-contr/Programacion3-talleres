@@ -1,7 +1,7 @@
 defmodule Correo do
     @moduledoc """
          modulo que representa un generador de correos
-         -version 1
+         -version 1.0
          -Autor:Natalia Contreras
          -Fecha: 2026-09-10
          """

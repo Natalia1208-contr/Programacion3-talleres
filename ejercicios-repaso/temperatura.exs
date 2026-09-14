@@ -2,7 +2,7 @@ defmodule Temperatura do
         @moduledoc """
          modulo que separa el calculo de conversión de temperatura
          de la impresión de un mensaje
-         -version 1
+         -version 1.0
          -Autor:Natalia Contreras
          -Fecha: 2026-09-11
          """

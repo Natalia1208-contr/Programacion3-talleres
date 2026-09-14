@@ -1,7 +1,7 @@
 defmodule ValidarNombres do
       @moduledoc """
-         modulo que representa un validador de nombre de usuario
-         -version 1
+         modulo que representa un validador de nomnbre de usuario
+         -version 1.0
          -Autor:Natalia Contreras
          -Fecha: 2026-09-11
          """

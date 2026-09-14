@@ -1,7 +1,7 @@
 defmodule Envios do
       @moduledoc """
          modulo que representa un generador de mensaje para una empresa de envios
-         -version 1
+         -version 1.0
          -Autor:Natalia Contreras
          -Fecha: 2026-09-11
          """
