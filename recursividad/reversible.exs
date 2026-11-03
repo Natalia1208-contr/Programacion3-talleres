@@ -1,6 +1,7 @@
 defmodule Reversible do
   def main do
-    IO.puts(es_reversible?(36))
+    reversible=es_reversible?(36)
+    IO.puts(reversible)
   end
 
   # Función principal con validación
@@ -30,8 +31,6 @@ defmodule Reversible do
 
   defp todos_impares?(n) do
     digito = rem(n, 10)
-
-    # Si el dígito es impar, evaluamos el resto del número
     if rem(digito, 2) != 0 do
       todos_impares?(div(n, 10))
     else

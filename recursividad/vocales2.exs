@@ -1,6 +1,6 @@
 defmodule Vocales do
   def main do
-    vocales=contar_vocales("natalia")
+    vocales=contar_vocales("nata")
     IO.puts(vocales)
   end
 
